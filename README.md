@@ -1,3 +1,3 @@
 ## Node-docker test
 
-This is experimental project to test docker with node and MongoDB.
+This is test project to try docker with node, MongoDB and GitHub action.
